@@ -1,4 +1,4 @@
-# File-transfer-Using-Socket-Programming-FTP-and-FileZilla
+# File-transfer-Using-FTP-through-Socket-Programming-and-FileZilla
 <p> A prerequisite for all the programs above is the fact that all the PCs involved, both the server and the client should be connected to the same WiFi network and the IP address of the server should be entered and changed in the code. We have also included the screenshots as well as the packet captures using WireShark which is a very popular packet sniffing software through which the packets can be analysed and request made by the client or the server can be seen.</p>
 <h1> Message Transfer </h1>
 <p> We have used socket programming to transfer messages on the command prompt from the client to the server and then the server replies with the same message.</p>
